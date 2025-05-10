@@ -2,6 +2,9 @@
 
 Akira is an elegant, user-friendly AI chatbot powered by Google's Gemini model and Flask. It features a modern interface with line-by-line responses for better readability.
 
+## Demo video
+https://drive.google.com/drive/folders/1vn-Xhv_83CkhUKHLLdio_a5IznZsTzZr?usp=sharing
+
 ## Features
 
 - Beautiful, responsive web interface
